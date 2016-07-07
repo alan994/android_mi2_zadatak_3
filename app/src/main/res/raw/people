@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<people>
+    <person>
+        <firstName>Alan</firstName>
+        <lastName>Jagar</lastName>
+        <subject>Mobilne aplikacije</subject>
+        <grade>5</grade>
+    </person>
+    <person>
+        <firstName>Đani</firstName>
+        <lastName>Pašić</lastName>
+        <subject>Poduzetništvo</subject>
+        <grade>5</grade>
+    </person>
+    <person>
+        <firstName>Igor</firstName>
+        <lastName>Znika</lastName>
+        <subject>Sociologija</subject>
+        <grade>5</grade>
+    </person>
+</people>
